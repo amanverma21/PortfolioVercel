@@ -112,9 +112,7 @@ export const GlobalStyle = createGlobalStyle`
   .logo{
     font-size: 3rem;
     color: #FFFF;
-    &::first-letter{
-      color: var(--green);
-    }
+    
   }
   
 
