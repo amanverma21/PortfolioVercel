@@ -6,7 +6,7 @@ import jsIcon from "../../assets/js-icon.svg";
 import nodeIcon from "../../assets/node-icon.svg";
 import reactIcon from "../../assets/react-icon.svg";
 import typescriptIcon from "../../assets/typescript-icon.svg";
-import profileImage from "../../assets/profile-image.jpg";
+import profileImage from "../../assets/profile.png";
 import mongoIcon from "../../assets/mongo.jpg";
 import nestIcon from "../../assets/nest.png";
 import ScrollAnimation from "react-animate-on-scroll";
