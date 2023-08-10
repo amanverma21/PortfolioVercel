@@ -12,7 +12,7 @@ export function Coding(){
       <div className="codings">
         <div>
           <img src={leetcode} alt="Email" />
-          <a href="https://leetcode.com/amanverma21/">Leetcode Max. Rating - 1811 (amanverma21)</a>
+          <a href="https://leetcode.com/amanverma21/">Leetcode-Knight, Max.Rating - 1856 (amanverma21)</a>
         </div>
         <div>
           <img src={gfg} alt="Email" />

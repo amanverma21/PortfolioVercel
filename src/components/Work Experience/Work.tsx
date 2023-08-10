@@ -18,11 +18,11 @@ export function Work(){
           </div>
           </header>
           <div className="body">
-            <h3>StanVerse Technologies (May,2023 - Present)</h3>
+            <h3>StanVerse Technologies (May,2023 - July,2023)</h3>
             <p>Role - Backend Developer, Location-Bangalore,Karnataka,IN</p> <p>Worked with Typescript and NestJS to remove the bugs in the code-base making it clean and standardized.</p>
             
           </div>
-          <p>Techstacks - NestJs,Typescript,NodeJs,ExpressJs,mySQL</p>
+          <p>Techstacks - NestJs,Typescript,NodeJs,mySQL,Redis,RabbitMQ</p>
         </div>
       </ScrollAnimation>
       
