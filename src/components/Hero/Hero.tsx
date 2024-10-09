@@ -22,7 +22,7 @@ export function Hero() {
 
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
           <p className="small-resume">
-            A passionate Software Developer with experience in mobile and backend development. <br /> Currently contributing to innovative projects at Stanverse Technologies, aiming to enhance <br/>user experiences in gaming applications.
+            A passionate Software Developer with experience in mobile and backend development. <br /> Currently contributing to innovative projects at Stanverse Technologies, aiming to enhance <br />user experiences in gaming applications.
           </p>
         </ScrollAnimation>
 
